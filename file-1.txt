@@ -1,4 +1,8 @@
 s 
 
+<<<<<<< HEAD
 This is the firts line
+=======
+This is the fist line
+>>>>>>> branch-1
 This is the second line
